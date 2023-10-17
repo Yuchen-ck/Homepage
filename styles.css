@@ -272,7 +272,7 @@ hr{
   padding: 5px 20px;
   margin-right: 10px;
   transition: transform 0.3s ease-in-out;
-  width: 120px; /* Or any value you prefer */
+  width: 100px; /* Or any value you prefer */
   height: 30px; /* Or any value you prefer */
   font-size: 5px;
 }
